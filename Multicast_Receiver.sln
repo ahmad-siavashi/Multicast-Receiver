@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Receiver", "Multicast_Receiver\Multicast_Receiver.csproj", "{642A7CAB-4414-41CE-A8C4-95A44F6B8F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastReceiver", "MulticastReceiver\MulticastReceiver.csproj", "{B4895F12-DEA1-423A-A00B-3E7CFBE6FA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{642A7CAB-4414-41CE-A8C4-95A44F6B8F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642A7CAB-4414-41CE-A8C4-95A44F6B8F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642A7CAB-4414-41CE-A8C4-95A44F6B8F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642A7CAB-4414-41CE-A8C4-95A44F6B8F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4895F12-DEA1-423A-A00B-3E7CFBE6FA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4895F12-DEA1-423A-A00B-3E7CFBE6FA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4895F12-DEA1-423A-A00B-3E7CFBE6FA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4895F12-DEA1-423A-A00B-3E7CFBE6FA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
