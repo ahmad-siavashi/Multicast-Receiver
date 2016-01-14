@@ -1,5 +1,5 @@
 # In his exalted name
-## Multicast-Receiver
+### Multicast-Receiver
 
 This is a simple reciever for multicast packets in the network.
 Supply the IP address of group and port as command-line arguments as follows:
